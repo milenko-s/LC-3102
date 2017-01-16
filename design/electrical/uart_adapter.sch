@@ -28,7 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:UART_Adapter-cache
+LIBS:uart_adapter-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -126,7 +126,7 @@ U 1 1 58763170
 P 7850 2000
 F 0 "P1" H 7850 2250 50  0000 C CNN
 F 1 "CONN_01X04" V 7950 2000 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_1x04" H 7850 2000 50  0001 C CNN
+F 2 "Connectors_Molex:Molex_PicoBlade_53261-0471_04x1.25mm_Angled" H 7850 2000 50  0001 C CNN
 F 3 "" H 7850 2000 50  0000 C CNN
 	1    7850 2000
 	1    0    0    -1  
