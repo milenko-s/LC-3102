@@ -7,6 +7,7 @@ The UART Adapter is used to connect the UART bus from a microcontroller to the R
 ## Authors
 
 - Artur Scholz [artur.scholz@librecube.net]
+- Milenko Starcik [-]
 
 ## Acknowledgements
 
